@@ -1,0 +1,18 @@
+/* Specific styles for product pages */
+#product-details {
+    padding: 20px;
+}
+
+.product-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.product-price {
+    color: green;
+    font-size: 20px;
+}
+
+.product-description {
+    margin-top: 10px;
+}
